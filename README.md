@@ -1,8 +1,9 @@
 # IACT-Autoencoders
+## Description
 An autoencoder-based approach for image cleaning in IACTs.
 
-# Approaches
+## Approaches
 Segmentation, regression, hybrid
 
-# Authors
+## Authors
 Jurjan Bootsma. Supervisors: Abhay Mehta, Robert Daniel Parsons
